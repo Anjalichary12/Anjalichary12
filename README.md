@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalichary12&label=Profile%20views&color=0e75b6&style=flat" alt="anjalichary12" /> </p>
 
-- 🌱 I’m currently learning **Java Full Stack Development, Full Stack Web Development.**
+- 🌱 I’m currently learning -**Java Full Stack Development, Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://anjalichary12.github.io/My_Portfolio/](https://anjalichary12.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at -[https://anjalichary12.github.io/My_Portfolio/](https://anjalichary12.github.io/My_Portfolio/)
 
-- 💬 Ask me about **Java Developer & Web Developer**
+- 💬 Ask me about - **Java Developer & Web Developer**
 
-- 📫 How to reach me **kottapellyanjali@gmail.com**
+- 📫 How to reach me - **kottapellyanjali@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JrgtGHLJzeldZrofhrq2HYJ_LjXBWNYP/view?usp=sharing](https://drive.google.com/file/d/1JrgtGHLJzeldZrofhrq2HYJ_LjXBWNYP/view?usp=sharing)
+- 📄 Know about my experiences-(https://drive.google.com/file/d/1JrgtGHLJzeldZrofhrq2HYJ_LjXBWNYP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
