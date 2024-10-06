@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences-(https://drive.google.com/file/d/1JrgtGHLJzeldZrofhrq2HYJ_LjXBWNYP/view?usp=sharing)
   
-- ⚡ Fun fact- **I'm A SleepyGirl**😴
+- ⚡ Fun fact- **I'm A SleepyGirl,But Not Lazy**😴
 
 <h1 align="left"> 🌐Connect with me:</h1>
 <p align="left">
