@@ -14,9 +14,9 @@
 
 - 📄 Know about my experiences-(https://drive.google.com/file/d/1JrgtGHLJzeldZrofhrq2HYJ_LjXBWNYP/view?usp=sharing)
   
-- ⚡ Fun fact- **I'm A SleepyGirl😴,But Not Lazy🤓**
+- ⚡ Fun fact- **I'm A SleepyGirl😴,But Not Lazy :)**
 
-<h1 align="left"> 🌐Connect With Me:)</h1>
+<h1 align="left"> 🌐Connect With Me:</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/kottapelly-anjali-a4b1a023b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kottapelly-anjali" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kothapallyanjal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kothapallyanjal1" height="30" width="40" /></a>
